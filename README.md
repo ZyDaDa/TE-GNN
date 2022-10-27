@@ -1,7 +1,7 @@
 # TE-GNN
 Code for paper "Time enhanced graph neural networks for session-based recommendation" in Knowledge-Based System 2022
 
-We have implemented our methods in Pytorch and PyG.
+We have implemented the methods in Pytorch and PyG.
 
 ## Usage
 
